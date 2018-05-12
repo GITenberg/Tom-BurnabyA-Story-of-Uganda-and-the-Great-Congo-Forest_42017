@@ -12,6 +12,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42017#Tom-BurnabyA-Story-of-Uganda-and-the-Great-Congo-Forest
 gutenberg_issued: '2013-02-04'
 gutenberg_type: Text
 identifiers:
